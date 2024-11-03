@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+
+    <link rel="icon" href="images/airplane.png" type="image" />
+
+    <script src="https://kit.fontawesome.com/37c29caf4e.js" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <section id="contact">
+            <nav>
+                <div class="logo">TravelBloom</div>
+                <div class="List-open"><i class="fa-solid fa-bars-staggered"></i></div>
+                <div class="overly hide"></div>
+                <div class="list">
+
+                    <div class="close-list">
+                        <i class="fa-solid fa-xmark"></i>
+                    </div>
+                    <ul>
+                        <li><a href="home.html">Home</a></li>
+                        <li><a href="home.html#explore">Explore</a></li>
+                        <li><a href="about.html">about us</a></li>
+                        <li><a href="contact.html">contact us</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="container">
+                <h1>contact us</h1>
+                <form class="contact-form" action="" method="post">
+                    <input type="text" name="name" class="name" placeholder="Name" required>
+                    <input type="email" name="email" placeholder="Email" class="email" required>
+                    <textarea name="desc" placeholder="message" required></textarea>
+                    <input type="submit" value="send"></input>
+                </form>
+            </div>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <script src="main.js"></script>
+</body>
+</html>

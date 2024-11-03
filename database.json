@@ -1,0 +1,140 @@
+{
+    "countries": [
+        {
+            "country": "Australia",
+            "cities": [
+                {
+                    "name": "Sydney",
+                    "imageUrl": "./dataImages/Sydney (Australia).jpg",
+                    "description": "A vibrant city known for its iconic landmarks, beautiful beaches, and cultural festivals.",
+                    "keywords": ["beach", "landmarks", "culture", "urban parks", "festivals"]
+                },
+                {
+                    "name": "Melbourne",
+                    "imageUrl": "./dataImages/Melbourne (Australia).jpg",
+                    "description": "A cultural hub famous for its art scene, food markets, and green spaces.",
+                    "keywords": ["art", "food", "events", "parks", "music"]
+                }
+            ]
+        },
+        {
+            "country": "Japan",
+            "cities": [
+                {
+                    "name": "Tokyo",
+                    "imageUrl": "./dataImages/Tokyo (Japan).jpg",
+                    "description": "A bustling metropolis blending modern technology, shopping districts, and traditional culture.",
+                    "keywords": ["technology", "shopping", "culture", "parks", "nightlife"]
+                },
+                {
+                    "name": "Kyoto",
+                    "imageUrl": "./dataImages/Kyoto (Japan).jpg",
+                    "description": "Renowned for its classical Buddhist temples, tranquil gardens, and historical sites.",
+                    "keywords": ["temples", "gardens", "history", "nature", "cultural heritage"]
+                }
+            ]
+        },
+        {
+            "country": "France",
+            "cities": [
+                {
+                    "name": "Paris",
+                    "imageUrl": "./dataImages/Paris (France).jpg",
+                    "description": "The city of light, known for its iconic art museums, romantic streets, and historic architecture.",
+                    "keywords": ["romance", "art", "fashion", "historic landmarks", "parks"]
+                },
+                {
+                    "name": "Nice",
+                    "imageUrl": "./dataImages/Nice (France).jpg",
+                    "description": "A picturesque city along the French Riviera, offering beaches and a lively promenade.",
+                    "keywords": ["beach", "coastal", "relaxation", "outdoor activities", "art"]
+                }
+            ]
+        },
+        {
+            "country": "Italy",
+            "cities": [
+                {
+                    "name": "Rome",
+                    "imageUrl": "./dataImages/Rome (Italy).jpg",
+                    "description": "The capital city, steeped in history with its ancient ruins, iconic architecture, and museums.",
+                    "keywords": ["history", "architecture", "cultural heritage", "landmarks", "museums"]
+                },
+                {
+                    "name": "Venice",
+                    "imageUrl": "./dataImages/Venice (Italy).jpg",
+                    "description": "Famous for its winding canals, romantic gondola rides, and artistic events.",
+                    "keywords": ["canals", "romance", "art", "festivals", "historic sites"]
+                }
+            ]
+        },
+        {
+            "country": "Spain",
+            "cities": [
+                {
+                    "name": "Barcelona",
+                    "imageUrl": "./dataImages/Barcelona (Spain).jpg",
+                    "description": "Known for its unique architecture, vibrant street life, and beachside attractions.",
+                    "keywords": ["architecture", "art", "beach", "festivals", "parks"]
+                },
+                {
+                    "name": "Madrid",
+                    "imageUrl": "./dataImages/Madrid (Spain).jpg",
+                    "description": "The capital city, known for its dynamic nightlife, cultural institutions, and green spaces.",
+                    "keywords": ["nightlife", "culture", "museums", "food", "parks"]
+                }
+            ]
+        },
+        {
+            "country": "Brazil",
+            "cities": [
+                {
+                    "name": "Rio de Janeiro",
+                    "imageUrl": "./dataImages/Rio de Janeiro (Brazil).jpg",
+                    "description": "Renowned for its stunning beaches, carnival celebrations, and breathtaking mountain views.",
+                    "keywords": ["beach", "carnival", "mountains", "landmarks", "festivals"]
+                },
+                {
+                    "name": "São Paulo",
+                    "imageUrl": "./dataImages/Sao Paulo (Brazil).jpg",
+                    "description": "The largest city in Brazil, celebrated for its art galleries, nightlife, and diverse food scene.",
+                    "keywords": ["art", "nightlife", "culture", "food", "parks"]
+                }
+            ]
+        },
+        {
+            "country": "USA",
+            "cities": [
+                {
+                    "name": "New York City",
+                    "imageUrl": "./dataImages/New York City (USA).jpg",
+                    "description": "A global center of entertainment, culture, and iconic parks.",
+                    "keywords": ["entertainment", "culture", "shopping", "parks", "landmarks"]
+                },
+                {
+                    "name": "Los Angeles",
+                    "imageUrl": "./dataImages/Los Angeles (USA).jpg",
+                    "description": "Famous for its film industry, beaches, and outdoor lifestyle.",
+                    "keywords": ["entertainment", "beach", "outdoor activities", "culture", "food"]
+                }
+            ]
+        },
+        {
+            "country": "India",
+            "cities": [
+                {
+                    "name": "Mumbai",
+                    "imageUrl": "./dataImages/Mumbai (India).jpg",
+                    "description": "The vibrant financial heart of India, known for its bustling city life and coastline.",
+                    "keywords": ["business", "entertainment", "coastline", "culture", "food"]
+                },
+                {
+                    "name": "Delhi",
+                    "imageUrl": "./dataImages/Delhi (India).jpg",
+                    "description": "The capital city, rich in historical landmarks, bustling markets, and diverse cuisine.",
+                    "keywords": ["history", "landmarks", "food", "culture", "parks"]
+                }
+            ]
+        }
+    ]
+}
