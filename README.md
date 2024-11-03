@@ -3,7 +3,7 @@
 TravelBloom is an interactive web application designed to help users explore cities and countries around the world. The application allows users to search for destinations, view detailed information, and submit inquiries through a contact form.
 
 ## Live Demo
-You can view the live version of the project here: [Live Demo](https://mostafakazoum.github.io/TravelBloom/)
+You can view the live version of the project here: [Live Demo](https://mostafakazoum.github.io/TravelBloom/home.html)
 
 ## Table of Contents
 
